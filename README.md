@@ -1,4 +1,4 @@
-# dismathportfolio-kokovictory
+# My Dismath Portfolio
 
   John Carlo G. Victory
 
