@@ -84,3 +84,25 @@
       - There were several examples given to understand more about the rules of inference.
   
 ## Week 4:
+  * We've learned the different methods of proof:
+    - Direct
+        - Assume p is TRUE.
+        - Show that q must be TRUE.
+    - Contraposition
+       - ¬q → ¬p
+        - Assume ¬q is TRUE.
+        - Show that ¬p must be TRUE. 
+    - Vacuous
+      - ¬p → (p → q)
+        - Show that q is FALSE.
+        - because p → q must be true when p is FALSE.
+    - Trivial
+      - Q → (P → Q)
+        - Show that q is TRUE.
+        - It follows that p → q must also be TRUE.
+    - Contradiction
+      - ¬(Premise) = T
+        - Assume that the premise is not true.
+        - Show that the premise will end up in contradiction.
+
+## Week 5:
