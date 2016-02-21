@@ -106,3 +106,19 @@
         - Show that the premise will end up in contradiction.
 
 ## Week 5:
+  * We've continued to discuss about proof of contradiction
+    - In contradiction, you must remember the rule:
+      - A/B | A,B ∈ Z
+      - B ≠ 0
+      - A,B should have no common factor except ± 1.
+  * We've also tackled the negation of implication
+    - If p is true, then q is true.
+      - There is atleast one case when p is true then q is false.
+  * Proof by Equivalence (Biconditional) was also introduced.
+    - p ↔ q, then
+    - p → q is true and
+    - q → p is also true.
+  * There were several examples given on both Contradiction and Equivalence lessons.
+  * Remeber: "When you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth." - Sir Arthus Conan Doyle.
+  
+## Week 6:
