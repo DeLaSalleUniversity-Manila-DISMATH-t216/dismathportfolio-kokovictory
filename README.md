@@ -122,3 +122,36 @@
   * Remeber: "When you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth." - Sir Arthus Conan Doyle.
   
 ## Week 6:
+  * Today we've recalled about Set Theories.
+    - Union
+    - Intersection
+    - Set Difference
+    - Symmetric Difference
+    - Ø ≠ {Ø}
+  * Set Membership
+    - ∈ and ∉
+  * Set Builder Notation
+    - { x | some property x satisfies }
+      - { 2x | x ∈ Z }
+  * Different Set
+    - A ∪ B                 UNION                       A ∪ B = { x | (x∈A) v (x∈B) }  
+    - A ∩ B                 INTERSECTION                A ∩ B = { x | (x∈A) ^ (x∈B) }
+    - A - B or A \ B        SET DIFFERENCE              A - B or A \ B = { x | (x∈A) ^ (x∉B) }
+    - A∆B                   SYMMETRIC DIFFERENCE        A∆B = { x | ((x∈A) ^ (x∉B)) v ((x∈B) ^ (x∉A)) }
+  * Subsets
+    - S ⊆ T = All elements of S is also an element of T.
+    - A = { x, y }
+  * Power Set
+    - p(S) = { T | T ∈ S }
+    - p(A) = { {x}, {y}, {x,y}, Ø }
+    - B = { x, y, z }
+      - p(B) = { {x}, {y}, {z}, {x,y}, {x,z}, {y,z}, {x,y,z}, Ø }
+  * We've also discussed about Power Series
+    - Example: Zeno's Paradox (can be solved using GEOMETRIC SERIES)
+    - A1 / 1-R
+  * Cardinality
+    - Number of Element it contains
+    - | S |
+      - |{A, B, C, D, E}| = 5.
+      - |{1, 2, 3, 3, 3}| = 3.
+    - 
