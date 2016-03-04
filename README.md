@@ -173,4 +173,5 @@
     - one - to - one correspondence (bijective)
       - Both Injective and Surjective
       - Venn Diagram: Intersection between two set is the bijective.
+      
 ## Week 8
