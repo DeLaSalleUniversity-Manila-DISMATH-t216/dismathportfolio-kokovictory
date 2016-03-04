@@ -156,3 +156,21 @@
       - |{1, 2, 3, 3, 3}| = 3.
 
 ## Week 7
+  * This week, we've discussed about Functions.
+    - Assinging an element from set A to set B.
+      - Set A (Domain)
+      - Set B (co-Domain)
+      - Actual occuring value from A to B (Range)
+  * Types of Functions:
+    - one - to - one function (injective)
+      - Never assign the same value to two different domain elements.
+        - f(x) = x + 1
+        - ∀x1∀x2(f(x1) = f(x2) → (x1=x2)) ; x1, x2 ∈ A
+    - onto function (surjective)
+      - Function that has an equal range and co domain
+        - x + 1 = onto
+        - x^2 = not onto.
+    - one - to - one correspondence (bijective)
+      - Both Injective and Surjective
+      - Venn Diagram: Intersection between two set is the bijective.
+## Week 8
