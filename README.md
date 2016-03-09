@@ -175,3 +175,30 @@
       - Venn Diagram: Intersection between two set is the bijective.
       
 ## Week 8
+  * This week, we learned about Algorithms
+      - Finite set of instructions for solving a problem.
+      - Pseudocode (high-level description of algorithm)
+          - Input
+          - Body
+          - Output
+        - For a pseudocode to be correct, you need:
+          - Definiteness                Definitely precise
+          - Correctness                 Output value is correct
+          - Finiteness                  Limited to the input
+          - Generality
+  * Also we tackled about Searching.
+      - Linear Search
+        - one by one search
+          - input: { A1, A2, ..., An }
+          - output: Aindex { found: {1, ..., n} ; else: -1
+      - Binary Search
+          - Divide the list into half
+            - Upper half & Lower half
+            - Until the last number/index.
+          - in Binary search, sorting is required.
+  * And lastly, we discussed about Sorting.
+      - Bubble
+      - Insertion
+    - Pseudocode for sorting is a longer than the pseudocode for search.
+    - 
+## Week 9
