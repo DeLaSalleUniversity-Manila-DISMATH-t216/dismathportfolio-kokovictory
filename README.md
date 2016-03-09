@@ -200,5 +200,5 @@
       - Bubble
       - Insertion
     - Pseudocode for sorting is a longer than the pseudocode for search.
-    - 
+
 ## Week 9
