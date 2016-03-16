@@ -188,17 +188,48 @@
           - Generality
   * Also we tackled about Searching.
       - Linear Search
-        - one by one search
-          - input: { A1, A2, ..., An }
-          - output: Aindex { found: {1, ..., n} ; else: -1
+          - one by one search
+             - input: { A1, A2, ..., An }
+             - output: Aindex { found: {1, ..., n} ; else: -1
       - Binary Search
           - Divide the list into half
             - Upper half & Lower half
             - Until the last number/index.
           - in Binary search, sorting is required.
-  * And lastly, we discussed about Sorting.
+  * We also discussed about Sorting.
       - Bubble
       - Insertion
     - Pseudocode for sorting is a longer than the pseudocode for search.
+  * And lastly, Greedy Algorithm.
+      - Selects best choice at each step, instead of considering all sequences of steps that may lead to an optimal solution.
+      - Example: Coin Change
+          - Input: x number of money
+          -        Coins denomination {25, 10, 5, 1} = {C1, C2, C3, ..., Cn | C1 > C2 > C3 > ... > Cn}
+          -        for(i: i -> n){
+          -        while(Ci <= x){ x= x- Ci; y= y+1;}}
+          - Output: N = number of coins.
 
 ## Week 9
+  * This week we tackled about Growth of Functions (Big O Notation), probably the hardest topic so far.
+      - Requires Witnesses: Constant C and k.
+         - C - Multiplier of your function
+         - k - Number of Input/Certain input -> beyond.
+         - Big O - upper bound of the function.
+  * We've also discussed about Big O's bestfriends, Big Theta and Big Omega.
+          - Big Omega - Lower Bound of the function.
+          - Big Theta - Both the lower bound and the upper bound of the function.
+      - Mathematical Definition/Expression:
+          - O = |f(x)| ≤ |C(g(x))|
+          - Ω = |C(g(x))| ≤ |f(x))|
+          - θ = |C(g(x))| ≤ |f(x))| ≤ |C(g(x))|
+  * Time complexity of Algorithms was also discussed.
+      - I really don't know how and when to use them in comparison.
+          - O(1)                  Constant
+          - O(log n)              Logarithmic
+          - O(n)                  Linear
+          - O(n log n)            n Log n
+          - O(n^b)                Polynomial
+          - O(B^n), B>1           Exponential
+          - O(n!)                 Factorial
+
+## Week 10
