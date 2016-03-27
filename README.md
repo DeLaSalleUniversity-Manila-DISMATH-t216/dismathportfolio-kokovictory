@@ -222,7 +222,10 @@
           - O = |f(x)| ≤ |C(g(x))|
           - Ω = |C(g(x))| ≤ |f(x))|
           - θ = |C(g(x))| ≤ |f(x))| ≤ |C(g(x))|
-  * Time complexity of Algorithms was also discussed.
+
+## Week 10
+  * We've continued discussing Big-O Notations with more examples.
+  * Time complexity of Algorithms was introduced.
       - I really don't know how and when to use them in comparison.
           - O(1)                  Constant
           - O(log n)              Logarithmic
@@ -231,5 +234,6 @@
           - O(n^b)                Polynomial
           - O(B^n), B>1           Exponential
           - O(n!)                 Factorial
+      - PS: Use Iteration table to get the number of comparisons.
 
-## Week 10
+ ## Week 11
