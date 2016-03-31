@@ -271,4 +271,4 @@
       - Graph is non-planar iff it contains a subgraph homeomorphic to the following graph.
           - Petersen Graph K3,3, K5.
 
- ## Week 12
+## Week 12
