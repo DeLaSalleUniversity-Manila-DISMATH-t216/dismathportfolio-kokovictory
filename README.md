@@ -253,21 +253,21 @@
           - A Complete loop. Will always go back from the starting node.
           - Graph has an even degree for all nodes/vertices.
       - Eulerian: A term called to a graph if its both a path and circuit.
-    * Hamilton Path and Circuit was also discussed during this week.
+  * Hamilton Path and Circuit was also discussed during this week.
       - Same as Euler's except a
           - Path: Passes through the vertex only once.
           - Circuit: Passes through the vertex only once, and still same starting and end node.
           - Pendant: A Node with 1 degree.
           - Hamiltonian: A term called to a graph if its both a path and circuit.
-    * Adjacent Matrix is about drawing a graph and only the given is the table of 1s and 0s.
+  * Adjacent Matrix is about drawing a graph and only the given is the table of 1s and 0s.
       - 1 = There is a connection between nodes.
       - 0 = There is no connection between nodes.
-    * The Isomorphism of Graphs is when 2 graphs are the same even with a different image.
-    * Planar Graphs are graphs that contains edges that do not cross each other.
+  * The Isomorphism of Graphs is when 2 graphs are the same even with a different image.
+  * Planar Graphs are graphs that contains edges that do not cross each other.
       - Edges are moveable! woaaah. Example "Star."
-    * Euler's Formula: used to compute the total number of regions in a graph.
+  * Euler's Formula: used to compute the total number of regions in a graph.
       - R = E - V + 2
-    * Kuratowski's Theorem was the last topic discussed this week.
+  * Kuratowski's Theorem was the last topic discussed this week.
       - Graph is non-planar iff it contains a subgraph homeomorphic to the following graph.
           - Petersen Graph K3,3, K5.
 
