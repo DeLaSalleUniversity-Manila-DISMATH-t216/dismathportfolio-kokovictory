@@ -260,8 +260,8 @@
           - Pendant: A Node with 1 degree.
           - Hamiltonian: A term called to a graph if its both a path and circuit.
     * Adjacent Matrix is about drawing a graph and only the given is the table of 1s and 0s.
-      - 1 - There is a connection between nodes.
-      - 0 - There is no connection between nodes.
+      - 1 = There is a connection between nodes.
+      - 0 = There is no connection between nodes.
     * The Isomorphism of Graphs is when 2 graphs are the same even with a different image.
     * Planar Graphs are graphs that contains edges that do not cross each other.
       - Edges are moveable! woaaah. Example "Star."
