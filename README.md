@@ -1,6 +1,7 @@
 # My Dismath Portfolio
 
   John Carlo G. Victory
+  DISMATH - XEE1 (STC)
 
 ## Week 1:
   * Discrete Mathematics deals with mathematical proofs
@@ -272,3 +273,38 @@
           - Petersen Graph K3,3, K5.
 
 ## Week 12
+  * Last week of discussion, we've tackled about Graph Coloring.
+          - Coloring each vertices of a graph (no two adjacent graph are on the same color)
+          - Chromatic number: χ(G) - Least numbers of colors needed for the graph
+      - Under Graph Coloring, we discussed about the Four Color Theorem.
+          - χ(G) is not more than four.
+          - Rule of Graph Coloring applies
+  * We also discussed about Trees
+      - A tree is a connected undirected graph with no simple circuit
+      - Properties of Tree:
+          - N vertices = N-1 Edges
+          - Full M-ARY Tree w/ I internal vertices
+              - N = MI + 1 Vertices
+          - Full M-ARY Tree Has:
+              - N vertices: 
+                  - I = (N-1)/M internal vertices  
+                  - L = [(M-1)N+1]/M leaves
+              - I internal Vertices:
+                  - N = MI + 1 vertices
+                  - L = (M-1)I+1 Leaves
+              - L leaves
+                  - N = (ML-1)/(M-1) vertices
+                  - I = (L-1)/(M-1) internal vertices
+      - Binary Search Tree
+          - REMEMBER: Left node is always smaller than the right node
+          - Time Complexity: O(log n)
+  * And for the last topic, We've discussed AUTOMATA Theory
+      - Sample: Vending Machine.
+      - Studies the law of computing
+  
+## Reading Materials
+    * Rosen, K. H. (2011). Discrete Mathematics and its Application. Retrieved from       http://www2.fiit.stuba.sk/~kvasnicka/Mathematics%20for%20Informatics/Rosen_Discrete_Mathematics_and_Its_Applications_7th_Edition.pdf
+  * Discrete Mathematics & Theoretical Computer Science. (n.d.). Retrieved from http://www.dmtcs.org/dmtcs-ojs/index.php/dmtcs
+  * Discrete Mathematics - Wikibooks, open books for an open world. (n.d.). Retrieved from https://en.wikibooks.org/wiki/Discrete_Mathematics
+  * Case Study: How I Got the Highest Grade in my Discrete Math Class - Study Hacks - Cal Newport. (n.d.). Retrieved from http://calnewport.com/blog/2008/11/25/case-study-how-i-got-the-highest-grade-in-my-discrete-math-class/
+  * Articles - Art of Problem Solving. (n.d.). Retrieved from http://artofproblemsolving.com/articles/discrete-math
