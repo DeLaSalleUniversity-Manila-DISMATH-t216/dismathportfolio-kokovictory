@@ -1,6 +1,7 @@
 # My Dismath Portfolio
 
   John Carlo G. Victory
+  
   DISMATH - XEE1 (STC)
 
 ## Week 1:
@@ -303,7 +304,8 @@
       - Studies the law of computing
   
 ## Reading Materials
-    * Rosen, K. H. (2011). Discrete Mathematics and its Application. Retrieved from       http://www2.fiit.stuba.sk/~kvasnicka/Mathematics%20for%20Informatics/Rosen_Discrete_Mathematics_and_Its_Applications_7th_Edition.pdf
+   
+  * Rosen, K. H. (2011). Discrete Mathematics and its Application. Retrieved from       http://www2.fiit.stuba.sk/~kvasnicka/Mathematics%20for%20Informatics/Rosen_Discrete_Mathematics_and_Its_Applications_7th_Edition.pdf
   * Discrete Mathematics & Theoretical Computer Science. (n.d.). Retrieved from http://www.dmtcs.org/dmtcs-ojs/index.php/dmtcs
   * Discrete Mathematics - Wikibooks, open books for an open world. (n.d.). Retrieved from https://en.wikibooks.org/wiki/Discrete_Mathematics
   * Case Study: How I Got the Highest Grade in my Discrete Math Class - Study Hacks - Cal Newport. (n.d.). Retrieved from http://calnewport.com/blog/2008/11/25/case-study-how-i-got-the-highest-grade-in-my-discrete-math-class/
